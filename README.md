@@ -1,3 +1,5 @@
+this isnt synthesis this is just my fork, go download the official one
+
 [backgroundless]:   https://saltssaumure.github.io/synthesis-discord-theme/preview/synthesis1.png
 [backgrounded]:     https://saltssaumure.github.io/synthesis-discord-theme/preview/synthesis2.png
 
